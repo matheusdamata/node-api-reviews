@@ -1,0 +1,10 @@
+CRUD para frases
+
+(X) | POST /phrase - Criar frases novas
+(X) | GET /phrases - Listar todas as frases
+(X) | GET /phrase/5 - Pegar informações de uma frase
+(X) | PUT /phrase/5 - Atualizar informações de uma frase
+(X) | DELETE /phrase/5 - Deletar uma frase
+
+CRUD extra
+(X) | GET /phrase/random - Pegar um frase aleatoriamente
